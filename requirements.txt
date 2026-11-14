@@ -1,0 +1,2 @@
+# 运行时依赖（tkinter 随 Python 官方安装包提供）
+Pillow>=10.0
