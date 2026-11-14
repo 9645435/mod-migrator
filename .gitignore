@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec.bak
+.venv/
+venv/
+testdata/
+dev_ui_*.py
+shot*.png
+*.log
+report.csv
