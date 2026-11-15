@@ -1,7 +1,8 @@
 __pycache__/
 *.py[cod]
 build/
-dist/
+dist/ModMigrator/
+dist/ModMigrator-Portable/
 *.spec.bak
 .venv/
 venv/
